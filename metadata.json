@@ -1,0 +1,6 @@
+{
+  "name": "Quy đổi Điểm chuẩn Bách khoa Hà Nội",
+  "description": "Trang tương tác tra cứu, quy đổi chứng chỉ ngoại ngữ và so sánh biểu đồ điểm chuẩn Đại học Bách khoa Hà Nội năm 2026 cho nhóm ngành Kinh tế và Công nghệ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
